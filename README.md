@@ -44,13 +44,12 @@ Includes:
 ## Dashboard Preview
 
 ### Main Dashboard
-![Main Dashboard](Screenshots/Main_Dashboard.png)
+![Main Dashboard](./Screenshot/Main_Dashboard.png)
 
 ### Sales Dashboard
-![Sales Dashboard](Screenshots/Sales_Dashboard.png)
+![Sales Dashboard](./Screenshot/Sales_Dashboard.png)
 
 ### Profit Dashboard
-![Profit Dashboard](Screenshots/Profit_Dashboard.png)
-
+![Profit Dashboard](./Screenshot/Profit_Dashboard.png)
 ## Author
 Lubhansh Shedha
