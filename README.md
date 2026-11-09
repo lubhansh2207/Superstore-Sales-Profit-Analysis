@@ -41,9 +41,16 @@ Includes:
 - Time-based trend analysis
 - Business performance reporting
 
-## Project Files
-- `Superstore_Sales_Profit.pbix` – Power BI report
-- `Screenshots/` – Dashboard screenshots
+## Dashboard Preview
+
+### Main Dashboard
+![Main Dashboard](Screenshots/Main_Dashboard.png)
+
+### Sales Dashboard
+![Sales Dashboard](Screenshots/Sales_Dashboard.png)
+
+### Profit Dashboard
+![Profit Dashboard](Screenshots/Profit_Dashboard.png)
 
 ## Author
 Lubhansh Shedha
